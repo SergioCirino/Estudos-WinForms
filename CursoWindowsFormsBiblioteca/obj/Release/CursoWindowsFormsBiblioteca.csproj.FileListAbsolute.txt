@@ -1,0 +1,6 @@
+C:\Users\serci\OneDrive\02 cursos\02 - ALURA\C SHARP\WINDOWS FORMS\CursoWindowsFormsBiblioteca\bin\Release\CursoWindowsFormsBiblioteca.dll
+C:\Users\serci\OneDrive\02 cursos\02 - ALURA\C SHARP\WINDOWS FORMS\CursoWindowsFormsBiblioteca\bin\Release\CursoWindowsFormsBiblioteca.pdb
+C:\Users\serci\OneDrive\02 cursos\02 - ALURA\C SHARP\WINDOWS FORMS\CursoWindowsFormsBiblioteca\obj\Release\CursoWindowsFormsBiblioteca.csproj.AssemblyReference.cache
+C:\Users\serci\OneDrive\02 cursos\02 - ALURA\C SHARP\WINDOWS FORMS\CursoWindowsFormsBiblioteca\obj\Release\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\serci\OneDrive\02 cursos\02 - ALURA\C SHARP\WINDOWS FORMS\CursoWindowsFormsBiblioteca\obj\Release\CursoWindowsFormsBiblioteca.dll
+C:\Users\serci\OneDrive\02 cursos\02 - ALURA\C SHARP\WINDOWS FORMS\CursoWindowsFormsBiblioteca\obj\Release\CursoWindowsFormsBiblioteca.pdb
