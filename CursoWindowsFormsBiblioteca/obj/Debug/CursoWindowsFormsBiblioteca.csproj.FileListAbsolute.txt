@@ -4,3 +4,9 @@ C:\Users\serci\OneDrive\02 cursos\02 - ALURA\C SHARP\WINDOWS FORMS\CursoWindowsF
 C:\Users\serci\OneDrive\02 cursos\02 - ALURA\C SHARP\WINDOWS FORMS\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
 C:\Users\serci\OneDrive\02 cursos\02 - ALURA\C SHARP\WINDOWS FORMS\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
 C:\Users\serci\OneDrive\02 cursos\02 - ALURA\C SHARP\WINDOWS FORMS\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\Users\serci\OneDrive\02 cursos\02 - ALURA\C SHARP\WINFORMS\Estudos-WinForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll
+C:\Users\serci\OneDrive\02 cursos\02 - ALURA\C SHARP\WINFORMS\Estudos-WinForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\Users\serci\OneDrive\02 cursos\02 - ALURA\C SHARP\WINFORMS\Estudos-WinForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.AssemblyReference.cache
+C:\Users\serci\OneDrive\02 cursos\02 - ALURA\C SHARP\WINFORMS\Estudos-WinForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\serci\OneDrive\02 cursos\02 - ALURA\C SHARP\WINFORMS\Estudos-WinForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
+C:\Users\serci\OneDrive\02 cursos\02 - ALURA\C SHARP\WINFORMS\Estudos-WinForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
